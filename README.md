@@ -1,5 +1,5 @@
 # SoftUni Programming Basics with C\# course
-Problem Solultions repository for the tasks given in the course.
+Problem Solutions repository for the tasks given in the course.
 <p></p>
 <img src="https://codedmonkey.files.wordpress.com/2010/09/noob.jpg">
 <p></p>
